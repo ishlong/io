@@ -3,11 +3,11 @@
   <title>ishlong</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://gitee.com/ishlong/io.git/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://gitee.com/ishlong/io.git/"/>
   <updated>2021-04-16T11:57:48.561Z</updated>
-  <id>http://example.com/</id>
+  <id>https://gitee.com/ishlong/io.git/</id>
   
   <author>
     <name>sharkboy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/30/hello-world/"/>
-    <id>http://example.com/2021/11/30/hello-world/</id>
+    <link href="https://gitee.com/ishlong/io.git/2021/11/30/hello-world/"/>
+    <id>https://gitee.com/ishlong/io.git/2021/11/30/hello-world/</id>
     <published>2021-11-30T10:34:33.820Z</published>
     <updated>2021-04-16T11:57:48.561Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>Spring5</title>
-    <link href="http://example.com/2021/04/13/Spring5/"/>
-    <id>http://example.com/2021/04/13/Spring5/</id>
+    <link href="https://gitee.com/ishlong/io.git/2021/04/13/Spring5/"/>
+    <id>https://gitee.com/ishlong/io.git/2021/04/13/Spring5/</id>
     <published>2021-04-13T04:22:23.000Z</published>
     <updated>2021-04-13T04:24:02.000Z</updated>
     
@@ -54,25 +54,25 @@
     
     
     
-    <category term="知识点" scheme="http://example.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    <category term="知识点" scheme="https://gitee.com/ishlong/io.git/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
     
-    <category term="Java" scheme="http://example.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/Java/"/>
+    <category term="Java" scheme="https://gitee.com/ishlong/io.git/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/Java/"/>
     
-    <category term="学习笔记" scheme="http://example.com/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/Java/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://gitee.com/ishlong/io.git/categories/%E7%9F%A5%E8%AF%86%E7%82%B9/Java/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="框架" scheme="http://example.com/tags/%E6%A1%86%E6%9E%B6/"/>
+    <category term="框架" scheme="https://gitee.com/ishlong/io.git/tags/%E6%A1%86%E6%9E%B6/"/>
     
-    <category term="Spring" scheme="http://example.com/tags/Spring/"/>
+    <category term="Spring" scheme="https://gitee.com/ishlong/io.git/tags/Spring/"/>
     
-    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    <category term="Java" scheme="https://gitee.com/ishlong/io.git/tags/Java/"/>
     
   </entry>
   
   <entry>
     <title>http转https</title>
-    <link href="http://example.com/2021/03/23/http%E8%BD%AChttps/"/>
-    <id>http://example.com/2021/03/23/http%E8%BD%AChttps/</id>
+    <link href="https://gitee.com/ishlong/io.git/2021/03/23/http%E8%BD%AChttps/"/>
+    <id>https://gitee.com/ishlong/io.git/2021/03/23/http%E8%BD%AChttps/</id>
     <published>2021-03-23T08:29:16.000Z</published>
     <updated>2021-04-12T06:58:03.000Z</updated>
     
@@ -89,19 +89,19 @@
     
     
     
-    <category term="网站" scheme="http://example.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://gitee.com/ishlong/io.git/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://gitee.com/ishlong/io.git/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-    <category term="http" scheme="http://example.com/tags/http/"/>
+    <category term="http" scheme="https://gitee.com/ishlong/io.git/tags/http/"/>
     
   </entry>
   
   <entry>
     <title>我的第一篇文章</title>
-    <link href="http://example.com/2021/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2021/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <link href="https://gitee.com/ishlong/io.git/2021/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://gitee.com/ishlong/io.git/2021/03/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2021-03-14T08:44:20.000Z</published>
     <updated>2021-03-14T09:30:49.000Z</updated>
     
@@ -115,10 +115,10 @@
     
     
     
-    <category term="选择" scheme="http://example.com/categories/%E9%80%89%E6%8B%A9/"/>
+    <category term="选择" scheme="https://gitee.com/ishlong/io.git/categories/%E9%80%89%E6%8B%A9/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://gitee.com/ishlong/io.git/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
